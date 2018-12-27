@@ -1,0 +1,4 @@
+<li><a href="http://localhost/1.php?id=1"><strong> 소화와 물질대사</strong></a></li>
+<li><a href="http://localhost/1.php?id=2"><strong> 돈 관리의 체계화</strong></a></li>
+<li><a href="http://localhost/1.php?id=3"><strong> 역사책 만들기</strong></a></li>
+<li><a href="http://localhost/1.php?id=4"><strong> 콜로세움건축물 만들기</strong></a></li>

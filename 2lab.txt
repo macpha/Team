@@ -1,0 +1,31 @@
+<div id="sm">
+ <h3>◎Lab_돈관리의 체계화</h3>
+</div >
+
+<h2>랩 소개-돈관리의 체계화</h2><br>
+<p id="box" style=color:black>
+
+  <li><strong>연구 목표</strong></li><br>
+  '1인 가구 돈 관리의 핵심은 지출 관리'라고 말한다. 지출 관리, 즉, 돈 관리의
+  기본 원칙은 내가 벌어들이는 돈이 내가 쓰는 돈보다 많아야 한다는 것을 강조한다.
+  다시 말해서 '수입-지출 > 0'이 되도록 하는 거다.
+
+  '수입-지출'을 플러스로 만들고 남은 돈을 모아 키우는 것이 지출 관리의 핵심이자 돈 관리의 핵심이라고 말할 수 있다
+  이러한 돈관리를 대학생의 입장에서 더욱 체계적으로 조사하여 소비패턴을 분석하고, 체계적인 돈관리 방법을 밝혀낸다.
+  <br><br><br>
+     <li><strong>현재 주 연구 분야</strong></li><br>
+     대학생의 소비패턴을 요일별 시간별로 분석한다
+     <br>* 요일별<br>
+     토요일이 가장 소비가 크다.
+   <br>* 시간별<br>
+     오전보다 오후에 소비비율이 높다
+     <br><br>
+
+     <li><strong>연구 관련 영상</strong></li><br>
+   <iframe width="50%" height="50%" src="https://youtu.be/2aXXsGNugtE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br>
+     <li><strong>참여 멤버</strong></li><br>
+     -지능기전공학부 18 김ㅇㅇ<br>
+     -지능기전공학부 18 황XX<br>
+     -지능기전공학부 18 서ㅇㅇ<br>
+     -지능기전공학부 18 강XX<br>
+   </p>
